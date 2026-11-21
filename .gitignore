@@ -1,0 +1,6 @@
+financas/extratos/*
+!financas/extratos/.gitkeep
+.obsidian/workspace*.json
+.obsidian/cache
+.trash/
+.DS_Store
